@@ -3,7 +3,7 @@
 	"namespace": "dami",
 	"version_number": "0.1.0",
 	"description": "Add tiers 5 and 6.",
-	"website_url": "",
+	"website_url": "https://github.com/BrotatoMods/dami-MoreTiers",
 	"dependencies": [],
 	"extra": {
 		"godot": {
@@ -11,7 +11,7 @@
 			"authors": [
 				"dami"
 			],
-			"compatible_mod_loader_version": "4.0.0",
+			"compatible_mod_loader_version": "4.1.0",
 			"compatible_game_version": ["0.8.0.3"],
 			"config_defaults": {}
 		}
